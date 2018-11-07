@@ -9,8 +9,7 @@
 #### 物理结构（存储结构）
 
 
-* [
-关于二叉树的前序、中序、后序三种遍历](https://blog.csdn.net/qq_33243189/article/details/80222629)
+* [关于二叉树的前序、中序、后序三种遍历](https://blog.csdn.net/qq_33243189/article/details/80222629)
 
 ### 算法
 
